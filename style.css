@@ -1,0 +1,28 @@
+body{
+    color: #fff !important;
+}
+
+.tabcolor{
+    background-color: #FFB0B0;
+}
+
+.containercolor{
+    background-color: #FFD09B;
+}
+
+.telainicial{
+    height: 100vh;
+}
+
+.menu{
+    background-color: #FFD09B;
+}
+
+a{
+    text-decoration: none !important;
+}
+
+.img{
+    width: 200px;
+    height: 200px;
+}
